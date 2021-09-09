@@ -81,4 +81,4 @@ The deployment...
 ## Technologies
   - JS
   - React
-  - CSS3# paragraph-generator
+  - CSS3
